@@ -1,0 +1,36 @@
+.main {
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: rgb(44, 226, 120);
+    width: 300px;
+    margin: 0 auto;
+}
+
+.h3 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 15px;
+    float: left;
+}
+
+.display {
+    border-radius: 5px;
+    font-size: 25px;
+    width: 275px;
+    height: 50px;
+    margin-top: 5px;
+    margin-left: 7px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(2, 100, 35);
+}
+.btn {
+    font-size: 25px;
+    color: rgb(31, 192, 98);
+    font-weight: bold;
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+    margin-left: 6px;
+    border-radius: 15px;
+    background-color: rgb(249, 255, 255);
+}
